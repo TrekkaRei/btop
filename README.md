@@ -1,3 +1,3 @@
-Config file and theme for btop.
+Config file and theme for btop
 
-Theme goes into /usr/share/btop/themes.
+Theme > /usr/share/btop/themes config > /home/user/.config/btop
